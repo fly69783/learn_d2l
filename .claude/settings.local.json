@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(~/anaconda3/envs/d2l/python.exe *)"
+    ]
+  }
+}
