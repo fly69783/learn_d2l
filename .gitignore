@@ -12,3 +12,5 @@ env/
 
 # 密钥和本地配置
 .env
+/.claude/
+/data/
