@@ -1,0 +1,14 @@
+# Python 缓存
+__pycache__/
+*.pyc
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# IDE 配置
+.idea/
+
+# 密钥和本地配置
+.env
